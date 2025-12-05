@@ -1,5 +1,9 @@
 ## Deep Learning: Prediksi Tahun (UTS Deep Learning)
-### Nama: Darryl Satria Wibowo, Kelas: TK-46-GAB, NIM: 1103223057
+
+| Nama | Program Studi | Kelas | NIM |
+|------|--------------|--------|-----|
+| **Darryl Satria Wibowo** | Teknik Komputer | TK-46-GAB | **1103223057** |
+--
 ### Tujuan Repository
 Repository ini berisi implementasi model Deep Learning (Multi-Layer Perceptron) menggunakan framework PyTorch untuk menyelesaikan tugas regresi. Tujuan utamanya adalah membangun, melatih, dan mengevaluasi model yang dapat memprediksi nilai target (tahun) dari sebuah dataset besar.
 
