@@ -192,7 +192,7 @@ pip install torch torchvision scikit-learn pandas numpy matplotlib seaborn polar
 ## 🛠️ Technologies Used
 
 - **Deep Learning Framework:** PyTorch
-- **Programming Language:** Python 3.x
+- **Programming Language:** Python 3.13
 - **Data Processing:** Pandas, Polars, NumPy
 - **ML Preprocessing:** scikit-learn (StandardScaler, SimpleImputer)
 - **Class Balancing:** imbalanced-learn (SMOTE)
